@@ -1,0 +1,41 @@
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.AssemblyReference.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.Properties.Resources.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.ServerForm.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.GenerateResource.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncClient.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncClient.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncClient.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CopyComplete
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectServer.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectClient.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectClient.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectClient.exe.config
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe.config
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\BasicAsyncServer.pdb
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\BasicAsyncClient.exe
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\MovingObjectServer.exe
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\MovingObjectClient.exe
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\BasicAsyncClient.pdb
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\BasicAsyncClient.exe.config
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\MovingObjectServer.pdb
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\MovingObjectServer.exe.config
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\MovingObjectClient.pdb
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\bin\Debug\MovingObjectClient.exe.config
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.AssemblyReference.cache
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.Properties.Resources.resources
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.ServerForm.resources
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.GenerateResource.cache
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CoreCompileInputs.cache
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CopyComplete
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+D:\Bintang\Semester 5\Pemrograman jaringan komputer\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb
